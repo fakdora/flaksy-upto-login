@@ -5,7 +5,6 @@ put my email address as FLASKY_ADMIN in config.py
 or export FLASKY_ADMIN='email@email.com' from console.
 
 Run these for fake data
-=======
 Role.insert_roles() 
 User.generate_fake(10) 
 Post.generate_fake(10)
